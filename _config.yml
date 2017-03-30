@@ -14,9 +14,9 @@ author:
 navigation:
 - title: 关于
   url: /about
-- title: 学习笔记啊
+- title: 笔记
   url: /writing
-- title: 联系放手
+- title: 联系
   url: /contact
 
 paginate:            5
