@@ -1,1 +1,29 @@
-theme: jekyll-theme-hacker
+# Site Settings
+title:               Chen Liang's blog
+tagline:             日拱一卒，不期速成
+description:
+baseurl:            "/chenliangac.github.com"
+url:                "https://chenliangac.github.io"
+github:
+  url:               "https://lenpaul.github.io/chenliangac.github.com"
+author:
+  name:              "Angie Chen"
+  email:             "angelinachen0012@gmail.com"
+  github:            "chenliangac"
+ 
+navigation:
+- title: 关于
+  url: /about
+- title: 学习笔记啊
+  url: /writing
+- title: 联系放手
+  url: /contact
+
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
