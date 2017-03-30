@@ -5,7 +5,7 @@ description:
 baseurl:            "/chenliangac.github.com"
 url:                "https://chenliangac.github.io"
 github:
-  url:               "https://lenpaul.github.io/chenliangac.github.com"
+  url:               "https://chenliangac.github.io/chenliangac.github.com"
 author:
   name:              "Angie Chen"
   email:             "angelinachen0012@gmail.com"
@@ -14,9 +14,9 @@ author:
 navigation:
 - title: 关于
   url: /about
-- title: 学习笔记啊
+- title: 笔记
   url: /writing
-- title: 联系放手
+- title: 联系
   url: /contact
 
 paginate:            5
